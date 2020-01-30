@@ -1,0 +1,25 @@
+{
+  "profile": {
+      "userId" : 3390, 
+      "name" : "Steph Curry", 
+      "mobileNo" : "9123456", 
+      "email" : "steph@gmail.com", 
+      "balance": 1320.5
+  },
+  "profileUpdate": {
+    "error": []
+  },
+  "profileUpdateError": {
+    "error": ["system001"]
+  },
+  "transactionHistory" :{
+      "transactions":[
+        {"transactionId":156, "type":0, "friendId":132, "name":"Bob", "amount":2.2}, 
+        {"transactionId":253, "type":1, "friendId":2234, "name":"Apple", "amount":30},
+        {"transactionId":893, "type":1, "friendId":556, "name":"Cindy", "amount":50}
+      ]
+  },
+  "balance" : {
+      "balance": 1320.5
+  }
+}
