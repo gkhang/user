@@ -4,6 +4,7 @@
       "name" : "Steph Curry", 
       "mobileNo" : "9123456", 
       "email" : "steph@gmail.com", 
+      "type": 1,
       "balance": 1320.5
   },
   "profileUpdate": {
